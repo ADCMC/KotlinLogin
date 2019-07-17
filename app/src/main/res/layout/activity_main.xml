@@ -22,7 +22,7 @@
 
     <ImageView android:layout_width="100dp"
                android:layout_height="100dp"
-               android:src="@drawable/code_android_logo"
+               android:src="@drawable/logo"
                android:layout_gravity="center_horizontal"/>
     
 <EditText android:layout_width="match_parent"
